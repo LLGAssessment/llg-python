@@ -1,5 +1,5 @@
 # llg-python
-Last letter game benchmark implemented with Python
+A last letter game benchmark implemented in Python
 
 ## How to run
 Clone repository recursively:
