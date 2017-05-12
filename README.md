@@ -18,5 +18,5 @@ time python llg.py < llg-dataset/70pokemons.txt
 Of course you can use `pypy` for this benchmark:
 
 ```bash
-time python llg.py < llg-dataset/70pokemons.txt
+time pypy llg.py < llg-dataset/70pokemons.txt
 ```
